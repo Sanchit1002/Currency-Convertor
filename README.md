@@ -1,10 +1,8 @@
-# Currency-Convertor
+# Currency Converter Web App
 
-# 💱 Currency Converter Web App
+A user-friendly application for real-time currency converter built using **HTML**, **CSS**, and **JavaScript**. It uses the real-time **ExchangeRate API** to convert currencies between over 100+ countries.
 
-A sleek and simple Currency Converter built using **HTML**, **CSS**, and **JavaScript**. It uses the real-time **ExchangeRate API** to convert currencies between over 100+ countries.
-
-![Preview](https://user-images.githubusercontent.com/your-screenshot.png) <!-- Optional image link -->
+(https://user-images.githubusercontent.com/your-screenshot.png)
 
 ---
 
