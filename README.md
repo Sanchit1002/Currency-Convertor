@@ -12,15 +12,13 @@ A user-friendly application for real-time currency converter built using **HTML*
 - Automatically fetches real-time exchange rates
 - Flags shown alongside currency codes
 - Swap currencies with one click
-- Fully responsive and mobile-friendly
-
 ---
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 - [ExchangeRate API](https://www.exchangerate-api.com/)
 - [FlagCDN](https://flagcdn.com/) for country flags
 
